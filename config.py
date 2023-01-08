@@ -9,7 +9,7 @@ TG_ADMIN = 'Hiyabo'
 DB_LOCAL = False
 DB_HOST = 'sql.freedb.tech'
 DB_HOST_USERNAME = 'freedb_josemanuel'
-DB_HOST_PASSWORD = '@9d6p7shnZU#N3h'
+DB_HOST_PASSWORD = 'TkM$b&?Jp28W7@e'
 DB_NAME = 'freedb_educaDb'
 
 if DB_LOCAL:
