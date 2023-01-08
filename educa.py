@@ -1,6 +1,6 @@
 import os
 import time
-import socks
+#import socks
 import socket
 import uuid
 import requests
